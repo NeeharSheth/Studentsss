@@ -1,0 +1,33 @@
+input{
+    margin: 10px;
+}
+#button_submit{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#Button_Sort{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#display_name_with_comma{
+    text-align: center;
+    font-weight: bold;
+    width: 50%;
+    font-size: 20px;
+    background-color: darkcyan;
+    border: 1px solid darkblue;
+    padding: 10px;
+   
+}
+#display_name_without_comma{
+    text-align: center;
+    font-weight: bold;
+    width: 50%;
+    font-size: 20px;
+    background-color: magenta;
+    border: 1px solid darkorchid;
+    padding: 10px;
+    margin-top: 3px;
+    
+}
